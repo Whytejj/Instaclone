@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Instaclone</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="button">sign up</string>
+    <string name="undertext">or login</string>
+    <string name="share">share</string>
+    <string name="logout">logout</string>
+    <string name="nousers">Looks like you are the only user</string>
+    <string name="noimages">Looks like there are no images</string>
+
+</resources>
